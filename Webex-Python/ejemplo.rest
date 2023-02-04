@@ -1,0 +1,23 @@
+POST https://webexapis.com/v1/rooms
+Content-Type: application/json
+Authorization: Bearer OTliNTc3OTYtNTczZC00MDI5LTlmMDAtOTQ1YjRhYTgwNmEyODBkZWM0YWUtOTQ3_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+{
+    "title":"Sala de teletubies"
+}
+
+
+###
+
+GET https://webexapis.com/v1/rooms
+Content-Type: application/json
+Authorization: Bearer OTliNTc3OTYtNTczZC00MDI5LTlmMDAtOTQ1YjRhYTgwNmEyODBkZWM0YWUtOTQ3_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+###
+PUT https://webexapis.com/v1/rooms/Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vY2FiZjhkNjAtOTQyNy0xMWVkLWFiNWUtYjFjZGExY2ViODYw
+Content-Type: application/json
+Authorization: Bearer ZjkwZTAwYTMtZGE3Yy00NGZhLWJlYjktNzg1N2ZmZTIxMmJkMjhlZDFhNDktNjZh_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+{
+    "title": "Clase de los sábados"
+}

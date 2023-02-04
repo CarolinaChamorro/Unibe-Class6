@@ -1,0 +1,18 @@
+GET  https://webexapis.com/v1/teams
+Content-Type: application/json
+Authorization: Bearer ZjkwZTAwYTMtZGE3Yy00NGZhLWJlYjktNzg1N2ZmZTIxMmJkMjhlZDFhNDktNjZh_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+###
+POST  https://webexapis.com/v1/teams
+Content-Type: application/json
+Authorization: Bearer ZjkwZTAwYTMtZGE3Yy00NGZhLWJlYjktNzg1N2ZmZTIxMmJkMjhlZDFhNDktNjZh_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+{
+  "name":"Sala de prueba"
+}
+
+###
+
+DELETE  https://webexapis.com/v1/teams/Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1RFQU0vZDMyZGRjZTAtOTQzMS0xMWVkLWI4ZmYtYTk3NmRiNDNlNGVk
+Content-Type: application/json
+Authorization: Bearer ZjkwZTAwYTMtZGE3Yy00NGZhLWJlYjktNzg1N2ZmZTIxMmJkMjhlZDFhNDktNjZh_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8

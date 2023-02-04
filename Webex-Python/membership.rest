@@ -1,0 +1,24 @@
+GET https://webexapis.com/v1/memberships
+Content-Type: application/json
+Authorization: Bearer OTliNTc3OTYtNTczZC00MDI5LTlmMDAtOTQ1YjRhYTgwNmEyODBkZWM0YWUtOTQ3_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+
+###
+POST https://webexapis.com/v1/memberships
+Content-Type: application/json
+Authorization: Bearer OTliNTc3OTYtNTczZC00MDI5LTlmMDAtOTQ1YjRhYTgwNmEyODBkZWM0YWUtOTQ3_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+{
+    "roomId":"Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMTc3YzZhYzAtOTk5NS0xMWVkLWIwNWItMjllOTFmZjM2YWQ0",
+    "personEmail":"angiecsb982@gmail.com"
+}
+
+###
+POST https://webexapis.com/v1/memberships
+Content-Type: application/json
+Authorization: Bearer OTliNTc3OTYtNTczZC00MDI5LTlmMDAtOTQ1YjRhYTgwNmEyODBkZWM0YWUtOTQ3_P0A1_ff79c397-9d79-44f7-8296-8858b58f5ba8
+
+{
+    "roomId":"Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMTc3YzZhYzAtOTk5NS0xMWVkLWIwNWItMjllOTFmZjM2YWQ0",
+    "personEmail":"jose.obando_0001@hotmail.com"
+}
